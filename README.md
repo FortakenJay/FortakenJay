@@ -107,5 +107,5 @@
 
   <br>
   <br>
-  <a href="ko-fi.com/saken"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
+  <a href="https://ko-fi.com/saken"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
 </p>
