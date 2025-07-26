@@ -89,6 +89,10 @@
         <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="VsCode" />
       <br>discord
     </td>
+                        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="VsCode" />
+      <br>Typescript
+    </td>
     
 
  </tr>
