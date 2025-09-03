@@ -8,7 +8,6 @@
 
 **About me**
 
-- Co-Founder of MarketWebCR 
 - Full-Stack Developer
 - Currently pursuing a CS degree
 
