@@ -98,14 +98,6 @@
 </table>
 </div>
 
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<p align="center">
- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=FortakenJay&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
-
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FortakenJay&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
-
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=FortakenJay&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
-
 
 
   <br>
