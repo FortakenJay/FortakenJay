@@ -1,106 +1,30 @@
-# <div align="center">From Logic👨‍💻, to Magic 🪄 </div>
-## <div align="center"> Hi 👋 I'm Jih Bin Luo | Saken Et Al | Jay </div>
-<div align="center"> 
+# Jih Bin Luo
 
-**Software Engineer, Full-Stack developer and entrepreneur from Costa Rica 🇨🇷**
+CS at Purdue University Northwest, AI concentration, Statistics minor. Expected May 2027. Hammond, IN.
 
-</div>
+I build software that has to work on real hardware: an offline shop register, a restaurant floor, a printer you can run from a phone, and a chess trainer that scores your own games.
 
-**About me**
+[Email](mailto:jihbin.luo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jihbinluo/)
 
-- Full-Stack Developer
-- Currently pursuing a CS degree
+## Selected work
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-                <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="VsCode" />
-      <br>C
-    </td>
-                    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="VsCode" />
-      <br>java
-    </td>
+| | |
+|---|---|
+| [**ShelfPOS**](https://github.com/FortakenJay/ShelfPOS) | Offline-first Windows register. Checkout is one SQLite transaction. A separate service syncs to the cloud after the sale. Two stores run it. [Owner dashboard](https://github.com/FortakenJay/ShelfPOS-Dashboard) is live at [shelfpos.net](https://shelfpos.net). |
+| [**LEAK**](https://github.com/FortakenJay/Chess-Website) | Chess training around a Chess.com account, not a playing site. Stockfish scores the games in the browser and the drill hides the engine line until you move. [Live](https://chess-website-six.vercel.app). |
+| [**Elegoo / Handy3D**](https://github.com/FortakenJay/elegoo-printer-work) | Vendor-agnostic printer control. One machine model in front of Elegoo, Bambu Lab, and Creality, and a React Native app for status, files, camera, and filament. Source of the lab repos stays with the lab. |
+| [**BowlPOS**](https://github.com/FortakenJay/bowlpos-case-study) | Cloud restaurant POS. Dine-in, takeout, delivery, and a kitchen display on one Postgres ticket. Three restaurants, about 200–300 orders a day. Source stays private. |
+| [**Hand ASL**](https://github.com/FortakenJay/hand-asl-contribution) | Webcam alphabet recognition. MediaPipe finds the hand, a TensorFlow Lite model labels A–Z. |
+| [**ASME PNW**](https://github.com/asmePNW/main-website) · [**ARCADE**](https://github.com/PNWArcade/main-website) | Club sites and officer dashboards. Events from the university feed can post to Discord. [asmepnw.com](https://asmepnw.com) · [arcadepnw.com](https://arcadepnw.com) |
 
-  </tr>
-  <tr>
-                  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="VsCode" />
-      <br>py
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="VsCode" />
-      <br>react
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="VsCode" />
-      <br>supabase
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="VsCode" />
-      <br>tailwind
-    </td>
-         <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="VsCode" />
-      <br>vite
-    </td>
-             <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="VsCode" />
-      <br>arduino
-    </td>
-  </tr>
- <tr>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
-    </td>
-            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
-    </td>      
-                    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="VsCode" />
-      <br>discord
-    </td>
-                        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="VsCode" />
-      <br>Typescript
-    </td>
-    
+## Also
 
- </tr>
-</table>
-</div>
+Leading an 8-student team on a campus food-delivery robot (perception, routing, mechanical, electrical). The code is not public yet.
 
+Chess Vision Board is a physical board with an ESP32-CAM and a YOLO piece detector. Not published here yet.
 
+## Stack
 
-  <br>
-  <br>
-  <a href="https://ko-fi.com/saken"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
-</p>
+TypeScript, JavaScript, Python, Java, C#, SQL. React, Next.js, TanStack Start, React Native, Electron. Postgres, SQLite, Supabase. WebSockets.
+
+Spanish, English, Mandarin.
